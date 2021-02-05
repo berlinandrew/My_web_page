@@ -1,11 +1,31 @@
-###I am Berlin Andrew
+##I am Berlin Andrew
 
 ## Welcome to My_Web_Page_GitHub Pages
 
-<footer>
-<p>My_Web_Page:<a href="https://berlinandrew.github.io/My_web_page/">GitHub_Page_by_Berlin Andrew</a></p>
-<p>Hosted on GitHub Pages &mdash<a href="https://github.com/">GitHub</a></p>
-</footer>
- 
+</p>
+<p style="text-align: center;">
+  <span style="color: #eeeeee; font-family: arial; font-size: large;"
+    ><b>ДОБРО ПОЖАЛОВАТЬ&nbsp;</b></span
+  >
+</p>
+<p style="text-align: center;">
+  <span style="color: #eeeeee; font-family: arial; font-size: large;"
+    ><b>НА МОЙ ВЭБ ПРОЕКТ:</b></span
+  >
+</p>
+<p style="text-align: center;">
+  <span style="color: #9cd8f0;"
+    ><span style="font-family: arial; font-size: large;"
+      ><b
+        ><i
+          ><a href="https://berlinandrew.github.io/web_app_INBROWSER/"
+            >INBROWSER</a
+          ></i
+        ></b
+      ></span
+    >&nbsp;</span
+  >
+</p>
+
 
 
