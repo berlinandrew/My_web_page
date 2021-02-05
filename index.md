@@ -32,8 +32,17 @@
     >&nbsp;</span
   >
 </p>
-<iframe src="https://berlinandrew.github.io/web_app_INBROWSER/" name="iframe985426" width="500px" height="650px" scrolling="auto" frameborder="0" align="center"></iframe>
-
+<div style="text-align: center;">
+  <iframe
+    align="center"
+    frameborder="0"
+    height="650px"
+    name="iframe1"
+    scrolling="auto"
+    src="https://berlinandrew.github.io/web_app_INBROWSER/"
+    width="500px"
+  ></iframe>
+</div>
 
 
 
