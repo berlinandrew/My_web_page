@@ -40,7 +40,7 @@
     name="iframe1"
     scrolling="auto"
     src="https://berlinandrew.github.io/web_app_INBROWSER/"
-    width="400px"
+    width="300px"
   ></iframe>
 </div>
 
