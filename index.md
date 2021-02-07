@@ -3,6 +3,11 @@
 ### GitHub Pages
 ДЛЯ СВЯЗИ: andrew.berlin96@gmail.com
 
+<a href="mailto:https://web-app-igrunya.blogspot.com/" target="_blank"
+  ><span style="font-size: large;"
+    >https://web-app-igrunya.blogspot.com/</span
+  ></a>
+
 <p style="text-align: center;">
   <span style="color: #3d85c6; font-family: arial; font-size: large;"
     ><b><br /></b
