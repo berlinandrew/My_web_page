@@ -1,9 +1,7 @@
 ## I am Berlin Andrew
 ## Welcome to My_Web_Page
 ### GitHub Pages
-###ДЛЯ СВЯЗИ:
-
-andrew.berlin96@gmail.com
+ДЛЯ СВЯЗИ: andrew.berlin96@gmail.com
 
 <p style="text-align: center;">
   <span style="color: #3d85c6; font-family: arial; font-size: large;"
