@@ -2,9 +2,7 @@
 ## Welcome to My_Web_Page
 ### GitHub Pages
 
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v9.0" nonce="jziyWhDM"></script>
-
+<iframe src="https://www.facebook.com/andrew.berlin.77/" name="iframe985426" width="300px" height="250px" scrolling="No" frameborder="0" align="center"></iframe>
 
 <p style="text-align: center;">
   <span style="color: #3d85c6; font-family: arial; font-size: large;"
