@@ -2,11 +2,12 @@
 ## Welcome to My_Web_Page
 ### GitHub Pages
 
-<div class="fb-page" 
-data-href="https://www.facebook.com/facebook"
-data-width="380" 
-data-hide-cover="false"
-data-show-facepile="false"></div>
+<p>
+  <a href="https://mail.google.com/mail/u/1/?ogbl#inbox" target="_blank"
+    >https://mail.google.com/mail/u/1/?ogbl#inbox</a
+  >&nbsp;
+</p>
+
 
 <p style="text-align: center;">
   <span style="color: #3d85c6; font-family: arial; font-size: large;"
