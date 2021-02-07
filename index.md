@@ -2,7 +2,11 @@
 ## Welcome to My_Web_Page
 ### GitHub Pages
 
-<iframe src="https://www.facebook.com/andrew.berlin.77/" name="iframe985426" width="300px" height="250px" scrolling="No" frameborder="0" align="center"></iframe>
+<div class="fb-page" 
+data-href="https://www.facebook.com/facebook"
+data-width="380" 
+data-hide-cover="false"
+data-show-facepile="false"></div>
 
 <p style="text-align: center;">
   <span style="color: #3d85c6; font-family: arial; font-size: large;"
