@@ -2,11 +2,7 @@
 ## Welcome to My_Web_Page
 ### GitHub Pages
 
-<p>
-  <a href="https://mail.google.com/mail/u/1/?ogbl#inbox" target="_blank"
-    >https://mail.google.com/mail/u/1/?ogbl#inbox</a
-  >&nbsp;
-</p>
+
 
 
 <p style="text-align: center;">
