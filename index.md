@@ -48,5 +48,5 @@
   ></iframe>
 </div>
 
-<div class="fb-page" data-href="https://www.facebook.com/andrew.berlin.77/" data-tabs="timeline" data-width="300" data-height="350" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"></div>
+
 
