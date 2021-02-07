@@ -2,8 +2,8 @@
 ## Welcome to My_Web_Page
 ### GitHub Pages
 ###ДЛЯ СВЯЗИ:
-<a href="mailto:andrew.berlin96@gmail.com" target="_blank"
-  ><span style="font-size: large;">andrew.berlin96@gmail.com</span></a>
+
+andrew.berlin96@gmail.com
 
 <p style="text-align: center;">
   <span style="color: #3d85c6; font-family: arial; font-size: large;"
