@@ -4,6 +4,11 @@
 ДЛЯ СВЯЗИ: andrew.berlin96@gmail.com
 
 <p>
+  <span style="font-family: times; font-size: large;"><b><a href="mailto:andrew.berlin96@gmail.com" target="_blank">andrew.berlin96@gmail.com</a>&nbsp;
+</b></span></p>
+
+
+<p>
   <a href="https://web-app-igrunya.blogspot.com/" target="_blank"
     ><span style="font-family: times; font-size: large;"
       ><b><i>https://web-app-igrunya.blogspot.com/</i></b></span
