@@ -30,7 +30,7 @@
 </p>
 <p style="text-align: center;">
   <span style="color: #eeeeee; font-family: arial; font-size: large;"
-    ><b>НА МОЙ ВЭБ ПРОЕКТ 
+    ><b>НА МОЙ ВЕБ ПРОЕКТ 
 (намите на ссылку, чтобы открыть):</b></span
   >
 </p>
