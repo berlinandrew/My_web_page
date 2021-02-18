@@ -1,7 +1,7 @@
 <div id="ytWidget"></div><script src="https://translate.yandex.net/website-widget/v1/widget.js?widgetId=ytWidget&pageLang=en&widgetTheme=light&autoMode=false" type="text/javascript"></script>
 
 ## I am Berlin Andrew
-## Welcome to My_Web_Page
+## Welcome to My Web Page
 ### GitHub Pages
 ДЛЯ СВЯЗИ:
 <p>
@@ -39,7 +39,7 @@
       ><b
         ><i
           ><a href="https://berlinandrew.github.io/web_app_INBROWSER/"
-            >INBROWSER</a
+            >INBROWSER: https://berlinandrew.github.io/web_app_INBROWSER/</a
           ></i
         ></b
       ></span
