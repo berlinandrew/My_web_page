@@ -1,7 +1,7 @@
 <div id="ytWidget"></div><script src="https://translate.yandex.net/website-widget/v1/widget.js?widgetId=ytWidget&pageLang=en&widgetTheme=light&autoMode=false" type="text/javascript"></script>
 
-## I am Berlin Andrew
-## Welcome to My Web Page
+## Я Берлин Андрей
+## Добро пожаловать на мою вэб страницу:)
 ### GitHub Pages
 ДЛЯ СВЯЗИ:
 <p>
