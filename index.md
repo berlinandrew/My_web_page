@@ -1,7 +1,7 @@
 <div id="ytWidget"></div><script src="https://translate.yandex.net/website-widget/v1/widget.js?widgetId=ytWidget&pageLang=en&widgetTheme=light&autoMode=false" type="text/javascript"></script>
 
 ## Я Берлин Андрей
-## Добро пожаловать на мою вэб страницу:)
+## Добро пожаловать на мою веб страницу:)
 ### GitHub Pages
 ДЛЯ СВЯЗИ:
 <p>
@@ -30,7 +30,8 @@
 </p>
 <p style="text-align: center;">
   <span style="color: #eeeeee; font-family: arial; font-size: large;"
-    ><b>НА МОЙ ВЭБ ПРОЕКТ:</b></span
+    ><b>НА МОЙ ВЭБ ПРОЕКТ 
+(намите на ссылку, чтобы открыть):</b></span
   >
 </p>
 <p style="text-align: center;">
